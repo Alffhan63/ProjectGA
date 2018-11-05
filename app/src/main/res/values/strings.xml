@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Reminder</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+        <string-array name="countries_array">
+            <item>KMT | Jakarta Kota</item>
+            <item>KMT | Jayakarta</item>
+            <item>KMT | Mangga Besat</item>
+            <item>KMT | Sawah Besar</item>
+            <item>KMT | Juanda</item>
+            <item>KMT | Gondangdia</item>
+            <item>KMT | Cikini</item>
+            <item>KMT | Manggarai</item>
+            <item>KMT | Tebet</item>
+            <item>KMT | Cawang</item>
+            <item>KMT | Duren Kalibata</item>
+            <item>KMT | Pasar Minggu Baru</item>
+            <item>KMT | Pasar Minggu</item>
+            <item>KMT | Tanjung Barat</item>
+            <item>KMT | Lenteng Agung</item>
+            <item>KMT | Universitas Pancasila</item>
+            <item>KMT | Unversitas Indonesia</item>
+            <item>KMT | Pondok Cina</item>
+            <item>KMT | Depok Baru</item>
+            <item>KMT | Depok</item>
+            <item>KMT | Citayam</item>
+            <item>KMT | Bojong Gede</item>
+            <item>KMT | Cilebut</item>
+            <item>KMT | Bogor</item>
+
+            <item>MRT | Sawah Besar</item>
+            <item>MRT | Monas</item>
+            <item>MRT | Sarinah</item>
+            <item>MRT | Harmoni</item>
+            <item>MRT | Mangga Besar</item>
+            <item>MRT | Glodok</item>
+            <item>MRT | Kota </item>
+            <item>MRT | Kampung Bandan </item>
+
+            <item>BSY | Pasar Baru</item>
+            <item>BSY | Juanda</item>
+            <item>BSY | Pecenongan</item>
+            <item>BSY | Harmoni Sentral</item>
+            <item>BSY | RS Sumber Waras</item>
+            <item>BSY | Grogol 1</item>
+            <item>BSY | Jelambar</item>
+            <item>BSY | Indosiar</item>
+            <item>BSY | Taman Kota</item>
+            <item>BSY | Jembatan Gantung</item>
+            <item>BSY | Dispenda</item>
+            <item>BSY | Jembatan Baru</item>
+            <item>BSY | Rawa Buaya</item>
+            <item>BSY | Sumur Bor</item>
+            <item>BSY | Pesakih</item>
+            <item>BSY | Kalideres</item>
+
+
+        </string-array>
+</resources>
