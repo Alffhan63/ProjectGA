@@ -32,9 +32,9 @@
             android:textColor="#000"
             android:id="@+id/input_search"
             android:background="@drawable/shape_search"
-            android:hint="Enter Your Destination or Code Transportation"
+            android:hint="Your Destination"
             android:drawableLeft="@drawable/ic_menu_camera"
-            android:drawablePadding="20dp"
+            android:drawablePadding="30dp"
             android:imeOptions="actionSearch"/>
 
 
